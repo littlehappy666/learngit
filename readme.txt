@@ -4,3 +4,4 @@ fuck
 ohno
 sd
 creating a new branch is quick
+conflict dev
